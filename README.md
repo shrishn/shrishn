@@ -1,17 +1,12 @@
 <h1 align="center">Hi 👋, I'm Shrish N</h1>
 <p align="center"><img  width=70% src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif"/></p>
 
-## About Me
 
-<p align="left">A passionate frontend developer from India</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shrishn&label=Profile%20views&color=0e75b6&style=flat" alt="shrishn" /> </p>
 
-
-
-- 🌱 I’m currently learning **React Js**
-
-- 📫 How to reach me **shrishnandan@gmail.com**
+# 💫 About Me:
+🔭 I’m currently working on front end projects.<br>👯 I’m looking to collaborate on web dev projects.<br>🌱 I’m currently learning React js<br>💬 Ask me about Python<br>⚡ Fun fact : Pythons Swallow Their Prey Whole<br>📫 How to reach me **shrishnandan@gmail.com**
 
 
 
@@ -30,4 +25,5 @@
 <p align="left">
 <a href="https://twitter.com/macshe3esh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="macshe3esh" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shrish-nandakumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shrish-nandakumar" height="30" width="40" /></a>
+<a href="https://instagram.com/in/shrishn_" target="blank"><img align="center" src="" alt="shrish-nandakumar" height="30" width="40" /></a>
 </p>
