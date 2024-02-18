@@ -25,5 +25,5 @@
 <p align="left">
 <a href="https://twitter.com/macshe3esh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="macshe3esh" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shrish-nandakumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shrish-nandakumar" height="30" width="40" /></a>
-<a href="https://instagram.com/in/shrishn_" target="blank"><img align="center" src="src/images/social/instagram.svg" alt="shrish-nandakumar" height="30" width="40" /></a>
+<a href="https://instagram.com/shrishn_" target="blank"><img align="center" src="src/images/social/instagram.svg" alt="shrish-nandakumar" height="30" width="40" /></a>
 </p>
