@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shrishn&label=Profile%20views&color=0e75b6&style=flat" alt="shrishn" /> </p>
 
-
 <p align="left"> <a href="https://twitter.com/macshe3esh" target="blank"><img src="https://img.shields.io/twitter/follow/macshe3esh?logo=twitter&style=for-the-badge" alt="macshe3esh" /></a> </p>
 
 - 🌱 I’m currently learning **React Js**
@@ -21,6 +20,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shrishn&show_icons=true&locale=en&layout=compact" alt="shrishn" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shrishn&show_icons=true&locale=en" alt="shrishn" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shrishn&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=ffffff&locale=en" alt="shrishn" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shrishn&" alt="shrishn" /></p>
