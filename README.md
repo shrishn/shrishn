@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shrish N</h1>
-<p align="center"><img  width=100% src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif"/></p>
+<p align="center"><img  width=70% src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif"/></p>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shrishn&label=Profile%20views&color=0e75b6&style=flat" alt="shrishn" /> </p>
