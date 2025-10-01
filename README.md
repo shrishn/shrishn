@@ -17,7 +17,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shrishn&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&bg_color=0d1117&hide_border=true&locale=en" alt="shrishn2" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shrishn&theme=dark" alt="shrishn3" /></p>
+<!--<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shrishn&theme=dark" alt="shrishn3" /></p>-->
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
